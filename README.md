@@ -1,4 +1,4 @@
-## https://camsteeves.netlify.app/
+## https://steeves.cam/
 
 <!--
 **dxzys/dxzys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
